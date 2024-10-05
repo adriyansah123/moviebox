@@ -1,0 +1,8 @@
+user.name=adriyansah123
+user.email=riyanefendi01@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/adriyansah123/moviebox.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
